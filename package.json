@@ -1,0 +1,12 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/script.js"
+  },
+  "author": "Miki Nyeste",
+  "license": "ISC",
+  "description": "Solves variant sudokus"
+}
